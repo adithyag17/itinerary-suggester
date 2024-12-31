@@ -3,7 +3,7 @@ import json
 
 def scrape_places():
     url = "https://travel-advisor.p.rapidapi.com/attractions/list-by-latlng"
-    api_key = "76769c82f0msh8314d65c5780e02p10aea2jsndc535f0fe63c"  # Replace with your RapidAPI key
+    api_key = "xyz"  # Replace with your RapidAPI key
 
     # Example city coordinates (replace these with actual coordinates)
     cities = {
