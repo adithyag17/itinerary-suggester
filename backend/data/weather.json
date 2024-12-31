@@ -1,0 +1,67 @@
+[
+    {
+        "city": "New York",
+        "temperature": "8\u00b0C",
+        "condition": "Partly cloudy"
+    },
+    {
+        "city": "London",
+        "temperature": "9\u00b0C",
+        "condition": "Overcast"
+    },
+    {
+        "city": "Tokyo",
+        "temperature": "14\u00b0C",
+        "condition": "Sunny"
+    },
+    {
+        "city": "Rome",
+        "temperature": "4\u00b0C",
+        "condition": "Partly cloudy"
+    },
+    {
+        "city": "Paris",
+        "temperature": "2\u00b0C",
+        "condition": "Light snow grains"
+    },
+    {
+        "city": "Madrid",
+        "temperature": "1\u00b0C",
+        "condition": "Clear"
+    },
+    {
+        "city": "Singapore",
+        "temperature": "28\u00b0C",
+        "condition": "Light rain shower"
+    },
+    {
+        "city": "Barcelona",
+        "temperature": "10\u00b0C",
+        "condition": "Clear"
+    },
+    {
+        "city": "Berlin",
+        "temperature": "0\u00b0C",
+        "condition": "Mist"
+    },
+    {
+        "city": "Sydney",
+        "temperature": "25\u00b0C",
+        "condition": "Sunny"
+    },
+    {
+        "city": "Goa",
+        "temperature": "32\u00b0C",
+        "condition": "Sunny"
+    },
+    {
+        "city": "Chennai",
+        "temperature": "28\u00b0C",
+        "condition": "Mist"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": "23\u00b0C",
+        "condition": "Mist"
+    }
+]

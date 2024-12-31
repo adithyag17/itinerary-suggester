@@ -1,0 +1,223 @@
+{
+    "New York": [
+        {
+            "name": "Walking Tours",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Movie & TV Tours",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Bus Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "London": [
+        {
+            "name": "Taxis & Shuttles",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Bus Tours",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Walking Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "Tokyo": [
+        {
+            "name": "Gift & Specialty Shops",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Sachi's Guide",
+            "rating": "N/A",
+            "address": "Taito Tokyo Prefecture"
+        },
+        {
+            "name": "Ameyoko Shopping Street",
+            "rating": "5.0",
+            "address": "Ueno, Taito Tokyo Prefecture"
+        }
+    ],
+    "Rome": [
+        {
+            "name": "Taxis & Shuttles",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "City Tours",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Historical & Heritage Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "Paris": [
+        {
+            "name": "Bike Tours",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Scavenger Hunts",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "City Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "Madrid": [
+        {
+            "name": "Taxis & Shuttles",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Spas",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Private Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "Singapore": [
+        {
+            "name": "Cultural Tours",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "City Tours",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Sightseeing Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "Barcelona": [
+        {
+            "name": "Taxis & Shuttles",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Casa Teresa Bordas",
+            "rating": "4.5",
+            "address": "Gran De Gracia 23, Barcelona Spain"
+        },
+        {
+            "name": "Cultural Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "Berlin": [
+        {
+            "name": "Stuttgarter Platz",
+            "rating": "3.0",
+            "address": "Stuttgarter Platz, 10627 Berlin Germany"
+        },
+        {
+            "name": "Gift & Specialty Shops",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Ufafabrik - Internationales Kultur Centrum",
+            "rating": "5.0",
+            "address": "Viktoriastr. 10-18, 12105 Berlin Germany"
+        }
+    ],
+    "Sydney": [
+        {
+            "name": "Cigar Bars",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Taxis & Shuttles",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Night Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "Goa": [
+        {
+            "name": "Self Drive In Goa",
+            "rating": "5.0",
+            "address": "Goa, 403602 India"
+        },
+        {
+            "name": "Cash Casino",
+            "rating": "N/A",
+            "address": "Goa Church Road, Goa Velha India"
+        },
+        {
+            "name": "NV Eco-Farm",
+            "rating": "4.5",
+            "address": "Kirlapal-Village of Kirlapal-Dabal Panchayat, Dharbandora Taluka, Bandoli 403727 India"
+        }
+    ],
+    "Bangalore": [
+        {
+            "name": "Spas",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "City Tours",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Gift & Specialty Shops",
+            "rating": "N/A",
+            "address": ""
+        }
+    ],
+    "Chennai": [
+        {
+            "name": "Bus Transportation",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "Game & Entertainment Centers",
+            "rating": "N/A",
+            "address": ""
+        },
+        {
+            "name": "City Tours",
+            "rating": "N/A",
+            "address": ""
+        }
+    ]
+}

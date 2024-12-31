@@ -1,0 +1,79 @@
+/* App.css */
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("https://cdn4.vectorstock.com/i/1000x1000/25/38/background-scenery-design-for-game-vector-14922538.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #333;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers content horizontally */
+  justify-content: center; /* Centers content vertically */
+  padding: 20px;
+  backdrop-filter: blur(5px); /* Optional: adds a blur effect for readability */
+  text-align: center; /* Ensures text is center-aligned */
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #f6bd60;
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 1.2rem;
+  color: #84a59d;
+}
+
+select {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #f28482;
+}
+
+.city-details {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 800px;
+}
+
+h2 {
+  color: #f28482;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #84a59d;
+  font-size: 1.5rem;
+}
+
+p,
+ul {
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}

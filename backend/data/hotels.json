@@ -1,0 +1,31 @@
+{
+    "New York": [],
+    "London": [],
+    "Tokyo": [],
+    "Rome": [],
+    "Paris": [],
+    "Madrid": [],
+    "Singapore": [],
+    "Barcelona": [],
+    "Berlin": [],
+    "Sydney": [],
+    "Goa": [
+        {
+            "name": "Dudhsagar Plantation",
+            "rating": "5.0",
+            "address": "N/A"
+        },
+        {
+            "name": "Costa de Goa",
+            "rating": "5.0",
+            "address": "N/A"
+        },
+        {
+            "name": "Indira Farms",
+            "rating": "5.0",
+            "address": "N/A"
+        }
+    ],
+    "Bangalore": [],
+    "Chennai": []
+}
