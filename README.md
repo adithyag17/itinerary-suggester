@@ -17,7 +17,7 @@ How about we use **FastAPI instead of Flask**? It provides **Swagger UI support*
 Hmmm, **Next.js on Vercel**—ah, the **Vercel deployment trick**! Love it! But what if we **containerize and deploy it over an EC2 instance** on AWS or another CSP? That would make it **much more industry-relevant**, right?  
 
 
-#signing off batman - meow meow
+signing off batman - meow meow
 ---
 
  
